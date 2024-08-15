@@ -3,6 +3,7 @@ import { Top } from "./Style";
 
 const Header = () => (
   <Top>
+    <img src="esc_bot.png" alt="escudo botafogo" width={50}height={25}/>
     <Link to="/">Home</Link>
     <Link to="/fotos">Fotos</Link>
     <Link to="/atletas">Atletas</Link>
