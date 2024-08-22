@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 const Top = styled.header`
-  padding: .5em 85rem;
+  padding: .5em 60rem;
   background-color: var(--secundaria);
   display: flex;
   flex-direction: row;
